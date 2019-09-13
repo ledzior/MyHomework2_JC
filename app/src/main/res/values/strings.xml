@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyHomework2_JC</string>
+    <string name="action_settings">Settings</string>
+    <string name="fileProvider">com.example.MyHomework2_JC.fileprovider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
